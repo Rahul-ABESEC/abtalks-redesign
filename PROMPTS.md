@@ -1,3 +1,12 @@
+## AI Conversation Reference
+
+The following public ChatGPT conversation contains the AI-assisted development workflow used during the project:
+
+https://chatgpt.com/share/6a771bef-0de4-83ee-bae5-9e5db61d61f0
+
+This conversation includes the actual development guidance, debugging, UI/UX decisions, Git/GitHub workflow, deployment guidance, and submission preparation.
+
+
 # ABTalks Redesign — AI Usage Log
 
 This document records how AI assistance was used during the development of the ABTalks 60-Day Coding Challenge redesign.
